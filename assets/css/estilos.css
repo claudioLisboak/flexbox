@@ -1,3 +1,7 @@
+body{
+    background-color: #828485;
+    font-family: 'Roboto', sans-serif;
+}
 .container{
     width: 99%;
     display: flex;
