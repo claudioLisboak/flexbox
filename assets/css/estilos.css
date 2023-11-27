@@ -58,6 +58,10 @@
     height: 70px;
     border-radius: 50%;
 }
+.ncontacto{
+    font-family: 1rem;
+    font-weight: bolder;
+}
 
  .box{
     width: 75%;
