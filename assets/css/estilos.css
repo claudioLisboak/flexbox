@@ -1,0 +1,5 @@
+.container{
+    width: 99%;
+    display: flex;
+    border: 1px Solid #F7BFB6;
+}
