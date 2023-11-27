@@ -23,6 +23,15 @@
     height: 50px;
     border-radius: 50%;
 }
+.nuevochat{
+    display: flex;
+    background-color: #FFF;
+    border: 1px Solid #F7BFB6;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
 .boton {
     padding: 10px 20px;
     background-color: #A491d2;
