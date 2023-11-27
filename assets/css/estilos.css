@@ -23,6 +23,16 @@
     height: 50px;
     border-radius: 50%;
 }
+.boton {
+    padding: 10px 20px;
+    background-color: #A491d2;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  .boton:hover {
+    background-color: #7e58bf;
+  }
 
  .box{
     width: 75%;
