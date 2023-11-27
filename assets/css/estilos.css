@@ -42,6 +42,9 @@
   .boton:hover {
     background-color: #7e58bf;
   }
+  .chatbox{
+    background-color: #FFF;
+}
 
  .box{
     width: 75%;
