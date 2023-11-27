@@ -45,6 +45,14 @@
   .chatbox{
     background-color: #FFF;
 }
+.contactos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px Solid #F7BFB6;
+    border-radius: 5%;
+    padding: 1rem;
+}
 
  .box{
     width: 75%;
