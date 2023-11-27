@@ -91,3 +91,19 @@ body{
     font-weight: 900;
     
   }
+  @media (max-width: 500px) {
+
+    .box{
+        display:none;
+    }
+    .container-msg{
+        width: 100%;
+    }
+    .contactos{
+       justify-content: center;
+    }
+    .user{
+        justify-content: center;
+    }
+
+}
