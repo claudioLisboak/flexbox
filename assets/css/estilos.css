@@ -3,3 +3,11 @@
     display: flex;
     border: 1px Solid #F7BFB6;
 }
+.container-msg{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    background-color: #FFF;
+    max-height: 100vh;
+    overflow: scroll;
+ }
